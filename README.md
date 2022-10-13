@@ -13,6 +13,7 @@ public class GamesDeveloper:
         Persona.roles[] = {"Unity3D_Developer", "3D_Modeller", "3D_Designer"};
         Persona.language_spoken[] = {"ru_RU", "en_US"};
         Persona.tecs_tools[] = {"Unity3D", "Blender", "Z-brush", "Substance 3D Painter", "Lumion"};
+        Persona.miPUPU = "Joey Tribbiani Language";
     }   
     
     public void SayHello()
