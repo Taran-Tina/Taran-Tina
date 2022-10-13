@@ -28,15 +28,19 @@ public class GamesDeveloper:
 }
 ```
 <hr>
+
 ## 🗂️ Мои репозитории
 * <a href="https://github.com/Taran-Tina/HelixJump"> Шарик который не остановить! </a>
 * <a href="https://github.com/Taran-Tina/Snake"> Рыбка-змейка! </a> 
+
 <hr>
-🔥 Языки программирования & Фреймворки & Инструменты 🔥
+## 🔥 Языки программирования & Фреймворки & Инструменты 🔥
 <br>
+
 <p align="center">
   <code><img title="C#" height="25" src="images/cSharp.svg"></code>
   <code><img title="Unity3D" height="25" src="images/unity3d.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
 </p>
+
 <hr>
