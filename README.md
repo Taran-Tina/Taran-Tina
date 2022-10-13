@@ -43,7 +43,7 @@ public class GamesDeveloper:
   <code><img title="C#" height="25" src="images/cSharp.svg"></code>
   <code><img title="Unity3D" height="25" src="images/unity3d.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><a href="https://www.youtube.com/watch?v=H3dToD7_ATU"><img title="GitHub" height="25" src="images/mipupuu.svg"></a></code>
+  <code><a href="https://www.youtube.com/watch?v=H3dToD7_ATU"><img title="MiPuPu" height="25" src="images/mipupu.svg"></a></code>
 </p>
 
 <hr>
