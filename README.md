@@ -36,7 +36,7 @@ public class GamesDeveloper:
 <hr>
 
 ## 🔥 Языки программирования & Фреймворки & Инструменты 🔥
-<br><br>
+<br>
 
 <p align="center">
   <code><img title="C#" height="25" src="images/cSharp.svg"></code>
