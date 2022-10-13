@@ -3,15 +3,26 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Taran-Tina)
 
 ```csharp
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-class SoftwareEngineer:
-    def __init__(self):
-        self.name = "Zhenye Na"
-        self.role = "Software Engineer"
-        self.language_spoken = ["zh_CN", "en_US"]
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
-me = SoftwareEngineer()
-me.say_hi()
-```
+public class UnityDDDDeveloper:
+{
+    GameObject Persona = new GameObject();
+       
+    public void MySelf(string me)
+    {
+        Persona.name = me;
+        Persona.roles[] = {"Unity3D_Developer", "3D_Modeller", "3D_Designer"};
+        Persona.language_spoken[] = {"ru_RU", "en_US"};
+        Persona.tecs_tools[] = {"Unity3D", "Blender", "Z-brush", "Substance 3D Painter", "Lumion"};
+    }   
+    
+    public void SayHello()
+    {
+        Debug.Log("Спасибо, что заглянули, надеюсь, вам будут интересны мои работы.");
+    }
+    
+    public void Start()
+    {
+        MySelf(Valentina_Taran);
+        SayHello();
+    }
+}
