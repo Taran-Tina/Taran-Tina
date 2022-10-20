@@ -12,7 +12,7 @@ public class GamesDeveloper:
         Persona.name = me;
         Persona.roles[] = {"Unity3D_Developer", "3D_Modeller", "3D_Designer"};
         Persona.language_spoken[] = {"ru_RU", "en_US"};
-        Persona.tecs_tools[] = {"Unity3D", "Blender", "Z-brush", "Substance 3D Painter", "Lumion"};
+        Persona.tecs_tools[] = {"Unity3D", "Blender", "Lumion"};
         Persona.miPUPU = "Joey Tribbiani Language";
     }   
     
