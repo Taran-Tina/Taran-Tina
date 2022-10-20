@@ -43,6 +43,7 @@ public class GamesDeveloper:
   <code><img title="C#" height="25" src="images/cSharp.svg"></code>
   <code><img title="Unity3D" height="25" src="images/unity3d.svg"></code>
   <code><img title="Blender" height="25" src="images/Blender.svg"></code>
+  <code><img title="Lumion" height="25" src="images/lumion.png"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="Gitlab" height="25" src="images/gitlab.svg"></code>
   <code><img title="DokuWiki" height="25" src="images/Dokuwiki.png"></code
