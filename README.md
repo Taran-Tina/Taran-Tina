@@ -42,7 +42,14 @@ public class GamesDeveloper:
 <p align="center">
   <code><img title="C#" height="25" src="images/cSharp.svg"></code>
   <code><img title="Unity3D" height="25" src="images/unity3d.svg"></code>
+  <code><img title="Blender" height="25" src="images/Blender.svg"></code>
+  
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
+  <code><img title="Gitlab" height="25" src="images/gitlab.svg"></code>
+  <code><img title="DokuWiki" height="25" src="images/Dokuwiki.png"></code
+  <code><img title="Inkscape" height="25" src="images/Inkscape.svg"></code>
+  <code><img title="GIMP" height="25" src="images/GIMP.png"></code>
+  <code><img title="Photoshop" height="25" src="images/Photoshop.png"></code>
   <code><a href="https://www.youtube.com/watch?v=H3dToD7_ATU"><img title="ImGamer!" height="25" src="images/mipupu.svg"></a></code>
 </p>
 
